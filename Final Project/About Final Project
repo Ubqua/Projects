@@ -1,4 +1,4 @@
-This code is a script that processes student data. It starts by importing the necessary classes and functions from a module called student. 
+Final Project is a script that processes student data. It starts by importing the necessary classes and functions from a module called student. 
 The main() function is then defined as the entry point for the script. Inside main(), the script reads student and major information from CSV files. 
 It creates a list of Student objects, populates them with data from the files, and stores them in the students list. 
 GPA and graduation date information are also added to the student objects using functions from the student module.
