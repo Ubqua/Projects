@@ -1,1 +1,18 @@
-Project 3 is about a wbesite displaying the NBA team using html and css. 
+Project 3 has HTML, CSS, and JavaScript document that creates a web page for purchasing Lakers playoff tickets. 
+The page includes various elements such as a title, images, sections, and forms. 
+The background color of the page is set to a shade of purple (RGB value: 106, 13, 247).
+
+The page consists of three sections, each displaying an image related to the Lakers. 
+The first section contains a card with an overlay image of LeBron James. 
+The second section features a card with an image of the Lakers team, including LeBron James and Anthony Davis. 
+The third section includes an image of the late Kobe Bryant.
+
+Below the image sections, there is a carousel that displays information about an upcoming game between the Los Angeles Lakers and the Houston Rockets.
+The details include the date, time, and location of the game.
+
+The page also includes two forms for users to enter their personal information. 
+The first form asks for the user's first name, last name, phone number, and email address. 
+The second form is incomplete in the provided code. Both forms have a submit button, but it lacks the necessary code to perform any action.
+
+It's important to note that without the associated CSS and JavaScript files, 
+the full functionality and styling of the web page may not be accurately represented.
