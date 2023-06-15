@@ -1,0 +1,12 @@
+This code is a script that processes student data. It starts by importing the necessary classes and functions from a module called student. 
+The main() function is then defined as the entry point for the script. Inside main(), the script reads student and major information from CSV files. 
+It creates a list of Student objects, populates them with data from the files, and stores them in the students list. 
+GPA and graduation date information are also added to the student objects using functions from the student module.
+
+The script then performs various operations on the student data. It sorts the list of students by last name and writes the information of all students to a file called "FullRoster.csv". 
+It creates separate CSV files for each major and populates them with the corresponding students' data. 
+It filters the list of students to include only those with a GPA above 3.8 and no disciplinary issues. 
+It checks the graduation dates of these filtered students and adds the eligible ones to a new list, sorted by GPA. The script writes the information of the eligible students to a file named "ScholarshipCandidates.csv". 
+Finally, it filters the list of students to include only those with disciplinary issues and writes their information to a file called "DisciplinedStudents.csv".
+
+Overall, this script reads student data from CSV files, performs various operations such as sorting and filtering, and writes the processed data to output files for further analysis or record-keeping.
